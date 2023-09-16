@@ -17,7 +17,7 @@
 **Para este problema la medida de rendimiento es pasar a todos los individuos sea de uno en uno o pasando de dos en dos, utilizando el menor numero de viajes posibles, que la canoa siempre debe ser manejada por un individuo y que sin importar el movimiento nunca queden mas canibales que monjes en una de las orillas porque entonces los canibales se comerian a los monjes**
 
 | Posicion inicial | Barco | Posicion Final | Accion a realizar |
-| --------- | --------- | --------- |
+| --------- | --------- | --------- | --------- |
 | ( M M M C C C ) | ( ) | ( ) | Cruzar dos canibales |
 | ( M M M C ) | ( C C ) | ( ) | Dejar a un canibal y regresar |
 | ( M M M C ) | ( C ) | ( C ) | Irse los dos canibal |
