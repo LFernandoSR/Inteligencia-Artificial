@@ -58,15 +58,20 @@
 
 | Posiciones | Accion a realizar |
 | --------- | --------- |
-| ( A1 A2 A3 _ R1 R2 R3 ) | Salta rana azul 2|
-| ( A1 _ A3 A2 R1 R2 R3 ) | Reiniciar porque no pueden seguir |
 | ( A1 A2 A3 _ R1 R2 R3 ) | Salta rana azul 3|
 | ( A1 A2 _ A3 R1 R2 R3 ) | Salta rana roja 1|
-| ( A1 A2 R1 A3 _ R2 R3 ) | Salta rana azul 3|
-| ( A1 A2 R1 _ A3 R2 R3 ) | Salta rana roja 2|
-| ( A1 A2 R1 R2 A3 _ R3 ) | Salta rana azul 3|
-| ( A1 A2 R1 R2 _ A3 R3 ) | Salta rana roja 3|
-| ( A1 A2 R1 R2 R3 A3 _ ) | Salta rana azul 3|
-| ( A1 A2 R1 R2 R3 _ A3 ) | Reiniciar porque no se puede seguir|
-| No hay mas combinaciones | El problema no tiene solucion |
+| ( A1 A2 R1 A3 _ R2 R3 ) | Salta rana roja 2|
+| ( A1 A2 R1 A3 R2 _ R3 ) | Salta rana azul 3|
+| ( A1 A2 R1 _ R2 A3 R3 ) | Salta rana azul 2|
+| ( A1 _ R1 A2 R2 A3 R3 ) | Salta rana azul 1|
+| ( _ A1 R1 A2 R2 A3 R3 ) | Salta rana roja 1|
+| ( R1 A1 _ A2 R2 A3 R3 ) | Salta rana roja 2|
+| ( R1 A1 R2 A2 _ A3 R3 ) | Salta rana roja 3|
+| ( R1 A1 R2 A2 R3 A3 _ ) | Salta rana azul 3|
+| ( R1 A1 R2 A2 R3 _ A3 ) | Salta rana azul 2|
+| ( R1 A1 R2 _ R3 A2 A3 ) | Salta rana azul 1|
+| ( R1 _ R2 A1 R3 A2 A3 ) | Salta rana roja 2|
+| ( R1 R2 _ A1 R3 A2 A3 ) | Salta rana roja 3|
+| ( R1 R2 R3 A1 _ A2 A3 ) | Salta rana azul 1|
+| ( R1 R2 R3 _ A1 A2 A3 ) | Fin |
 
