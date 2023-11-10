@@ -195,8 +195,3 @@ LA resolución exitosa de este problema requiere de una estrategia con un enfoqu
 | ( C ) | ( C ) | ( M M M C ) | Llevarse al ultimo caníbal |
 | ( ) | ( C C ) | ( M M M C ) | Quedarse todos del otro lado |
 | ( ) | ( ) | ( M M M C C C ) | Fin |
-
-| ( R1 R2 _ A1 R3 A2 A3 ) | Salta rana roja 3|
-| ( R1 R2 R3 A1 _ A2 A3 ) | Salta rana azul 1|
-| ( R1 R2 R3 _ A1 A2 A3 ) | Fin |
-
