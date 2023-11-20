@@ -90,7 +90,7 @@ Otras inteligencias propuestas por Gardner. Algunos otros ejemplares que Gardner
 Estas inteligencias que menciona Gardner me parecen muy interesantes, de hecho, las he visto en varios libros de auto ayuda y son muy mencionadas sus características, como tal no había leído o escuchado sobre estos nombres como Gardner menciona para leyendo sus características si me hace bastante sentido. Desde mi punto de vista, este tipo de inteligencias más modernas que el mismo autor nos menciona dan un acercamiento a la conciencia del ser humano sobre sí mismo, su mente, sobretodo. 
 Otro aspecto que nos menciona es la superdotación en las inteligencias en donde las capacidades intelectuales es muy alta, sin embargo, la falla que se encuentra aquí es que, si una persona fuera muy inteligente en una de las inteligencias mencionadas, esta tendría desbalances en las demás. Este tema me hace pensar en que sería algo muy idealista el pensar que una persona o entidad pueda poseer simultáneamente todos los tipos de inteligencias y además en un nivel de superdotación, sería algo muy cercano a la perfección de hecho.
 
-** El aprendizaje **
+**El aprendizaje**
 
 Otro aspecto importante que dice Gardner es que la inteligencia de una persona depende principalmente de la manera en que esta absorbe o recibe la información, en cualquier forma. La información sobre música comúnmente no la recibimos como la espacial o como a matemática, de hecho, hay muchas personas que tienen un sentido más desarrollado que otro. El otro punto importante que pude ver es que también cada tipo de inteligencia es autónoma, es decir, se desarrolla de forma independiente, esto también tiene bastante sentido y se relaciona a la forma en que una persona desarrolla mayores habilidades en un área y otra persona en otra. Gardner nos menciona que el cerebro humano se divide en distintos sectores que se enfocan en diferentes habilidades cada uno.
 
@@ -98,11 +98,11 @@ Otro aspecto importante que dice Gardner es que la inteligencia de una persona d
 La inteligencia que poseen las personas comúnmente se enfoca en algún aspecto, o se apega a alguno de los tipos de inteligencia que menciona Gardner. Viéndolo desde el punto de vista de las máquinas y la inteligencia artificial, esto nos ayuda a entender que esta ciencia tiene muchas variantes y se especializa en resolver diferentes tipos de problemas. La inteligencia artificial no está basada en único y absoluto tipo de inteligencia y hay ocasiones en los que necesitamos trabajar con textos, con imágenes o con sonidos al utilizarla por lo que puedo decir que la teoría de Howard Gardner se aplica muy bien y nos sirve para entender este aspecto de la misma.
 
 
-#Practica 3 Introducción a la inteligencia artificial Introspección
-##Introducción
+# Practica 3 Introducción a la inteligencia artificial Introspección
+## Introducción
 Este ensayo aborda el tema sobre resolver un desafío, el cual consiste en intercambiar la posición de 4 alfiles blancos y 4 negros que se encuentran en la primera y última fila respectivamente en un tablero de ajedrez de 5 x 4, la idea es interpretar la solución desde el punto de vista introspectivo. La importancia de este ensayo radica en conocer o tener un mejor entendimiento del proceso cognitivo y de resolución de problemas que tiene la inteligencia artificial conociendo el que tenemos los seres humanos, la inteligencia artificial pretende funcionar de la misma manera que la inteligencia natural del ser humano, que hasta el momento es el ser vivo con la máxima capacidad de utilizar la misma y además ser consciente.
 
-##Desarrollo
+## Desarrollo
 **Percepción y análisis del problema.**
 El problema que se presenta es un tablero similar al del ajedrez, pero en una versión más pequeña. En primer lugar, lo que hago es observar el tablero que tiene 5 filas y 4 columnas, la primera y la última fila son las únicas que tienen alfiles, la primera tiene 4 ejemplares blancos y la segundo a su vez tiene 4 ejemplares negros. Después de observar el tablero lo que hago es deducir que al alfil solo puede realizar movimientos en forma diagonales como en el juego tradicional de ajedrez, por lo que la única manera de cambiarlos de posición es llevándolos en pasos con forma de diagonal. Las diagonales como en el juego tradicional, pueden ser de 2 a n cuadros, claro que tomando en cuenta la medida del tablero, ese es otro detalle que también comienzo a tomar en cuenta. En primer lugar, observo que los afiles no se pueden mover en una diagonal más grande de 2 cuadros, puesto que si exceden esta medida entonces quedarían en los posibles caminos de los que están en el extremo opuesto.
 
