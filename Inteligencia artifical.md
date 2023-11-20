@@ -115,7 +115,158 @@ Si se mantenía la simetría se podían mover los alfiles alternadamente entre l
 ## Conclusión
 LA resolución exitosa de este problema requiere de una estrategia con un enfoque cuidadoso que se pueda utilizar para respetar las limitaciones del juego, una de ellas es que cada color tenía que tomar un turno en cada movimiento. Si lo vemos desde ese punto de vista los alfiles blancos tenían que llegar al otro extremo, pero a la vez que los negros necesitaban hacer lo mismo. En lo personal a mí me cuesta trabajo interpretar las estrategias que sigo en mi mente o incluso plasmar la secuencia de pasos que tengo que seguir, más bien la forma en la que llego a la solución de algún problema es, ya sea simulándolo o haciendo los movimientos y necesito apoyarme de alguna bitácora o lista para poder recordar los pasos a seguir, hay personas que tienen mayor facilidad para plasmar su metodología pero en mi caso he notado que me es más sencillo poniéndolo en práctica, quizá desde un enfoque kinestésico. En conclusión, puedo decir que para solucionar un problema de esta naturaleza lo primer es observar detenidamente el tablero del juego y las piezas que hay, cuáles son sus dimensiones, observar cuales son las reglas y las limitaciones para hacer los movimientos, en base a ello pude deducir que si los movimientos eran alternados tenían que tener cierta coordinación y simetría al asociarlo con un numero par, además de que el número de piezas al ser 4 seguía esta lógica, también es importante tomar en cuenta los patrones que se van construyendo ya poniendo en práctica la solución del problema, creo que teniendo en cuenta estas características puede ser una herramienta útil para resolver otro problemas con características similares.
 
+# Practica 4 Introducción a la inteligencia artificial Introspección: Contar islas en una matriz.
+## Introducción.
+El siguiente ensayo es el planteamiento de cómo resolver un problema, que consiste en contar el número de islas dentro de una matriz de elementos rectangulares o cuadrados, según la perspectiva que se note. El objetivo del mismo es poner en práctica la autopercepción de mi mente para encontrar la metodología para resolver este problema. Es importante conocer la forma en que nuestra mente trabaja y como asociando diferentes conocimientos previos, podemos encontrar la forma más óptima de encontrar una solución para poder implementar las diferentes técnicas de la inteligencia artificial.
 
+## Desarrollo
+Lo primero que observamos en este problema es una matriz de 14 x 22 cuadros, que más bien tienen formas rectangulares, dentro del cual la mayoría de los cuadros son blancos y se tienen 6 islas conformadas por cuadros grises oscuro, ese es el color que marca la diferencia y del cual se tienen que contar los cuadros para las islas. Al pedirse resolver el problema de contar los cuadros de diferente color, que serían los que contiene cada isla se toman en cuenta dos métodos, uno iterativo y uno recursivo en forma de algoritmos. Tomando esto en cuenta podríamos asignar un valor numérico a los elementos de color gris oscuro como un 1 y los de color blanco como un cero.
+
+## Método iterativo.
+En la parte iterativa se utilizaría una función que pueda recorrer la matriz en el sentido de las filas y en cada fila una columna, se puede pasar un color como referencia numérica, en el caso de querer contar los elementos de color gris oscuro solo se haría referencia al número 1. Al recorrer cada posición, si el cuadro es blanco la referencia sería un 0, por lo que un contador auxiliar que utilicemos podría regresar un valor de 0, referenciando que no encontramos nada. Teniendo como referencia el tamaño de la matriz, esto me hace asociarlo con un ciclo iterativo como por ejemplo el ciclo for, en el que podríamos recorrer fila y las columnas en otro for anidado. Sin embargo, para poder contar las islas que se tendrían en la matriz, debería de haber varios elementos con valor 1 conectados de forma vertical u horizontal, en cualquiera de las dos formas. Si en un dado caso se encuentra un valor de 1, se debería activar una variable que indique que se están contando los elementos dentro de una isla por lo que se debería de guardar la referencia de las columnas en las que se encuentran los elementos 1 en dicha fila y luego continuar en la siguiente fila en el momento que se dejen de encontrar elementos 1, lo que se me ocurre es que después se recorre la siguiente fila específicamente en las columnas referenciadas para así ver si también hay elementos con valor 1. Aunque si hay otros elementos consecutivos en la misma fila, entonces estos también formarían parte de la isla, este proceso se haría hasta llegar a un momento en el que ya no haya elementos 1 consecutivos y se contaría como una isla. Después se repetiría el proceso principal para encontrar más islas.
+
+## Ejemplo iterativo:
+```
+def contarElementosIterativo(matriz, fila, columna, color): 
+    if matriz[fila][columna] != color: 
+        return 0 contador = 0 referencia = [(fila, columna)] 
+    while referencia: f, c = referencia.pop() 
+        if 0 <= f < len(matriz) and 0 <= c < len(matriz[0]) and matriz[f][c] == color: 
+            contador += 1 matriz[f][c] = None
+        stack.append((f + 1, c)) 
+        stack.append((f - 1, c)) 
+        stack.append((f, c + 1)) 
+        stack.append((f, c - 1)) 
+        return contador 
+```
+
+## Método recursivo.
+Para una forma recursiva el método sería similar en su declaración pero tendría que mandarse a llamar dentro pero indicando las diferentes direcciones en las que podría moverse la posición en la que estemos, tomando en cuenta claro, que si estamos en la posición 0, no podemos ir a un número negativo y el límite sería ya sea el ancho o el alto de la matriz, además si devolvemos un valor de 1 cuando vamos encontrando una isla cuando se sume el contador podemos usar como referencia la recursividad del método utilizado.
+
+## Ejemplo recursivo:
+```
+def contarElementosRecursivo(matriz, fila, columna, color): 
+    if not (0 <= fila < len(matriz)) or not (0 <= columna < len(matriz[0])) or matriz[fila][columna] != color: 
+        return 0 contador = 1 
+        matriz[fila][columna] = None 
+        contador += contarElementosRecursivo (matriz, fila + 1, columna, color) 
+        contador += contarElementosRecursivo (matriz, fila - 1, columna, color) 
+        contador += contarElementosRecursivo (matriz, fila, columna + 1, color) 
+        contador += contarElementosRecursivo (matriz, fila, columna - 1, color)
+```
+
+## Conclusión
+En conclusión, vemos que el método recursivo parece ser más óptimo que el iterativo, aunque pueden adaptarse características del otro según se necesite, en este caso creo que incluso solo con aplicar el segundo es suficiente, sobre todo por la naturaleza del problema, en donde la conexión de los elementos que conforman una isla puede ser tanto de forma horizontal como vertical. Lo que pude observar en este ejercicio, es que yo tenía asociado los métodos que vimos en las primeras clases con los ejercicios que estábamos resolviendo para encontrar islas también, creo que, entrando en contexto con la inteligencia artificial, estas características también podrían ser aprendidas y aprovechadas para resolver el problema.
+
+
+
+# Práctica 6. Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica
+## Problema
+El Problema de Josephus se puede plantear matemáticamente como sigue: dado un círculo de n soldados numerados de 1 a n, y una constante k, los soldados son eliminados secuencialmente en pasos de k soldados, comenzando desde el soldado en la posición 1, y el proceso se repite hasta que solo queda un soldado. La pregunta es: ¿En qué posición inicial se debe colocar Josephus para ser el último sobreviviente?
+
+## Solucion
+El siguiente programa utiliza una lista para representar a los soldados y elimina secuencialmente a los soldados según las reglas del problema. La función ubicacion toma dos parámetros: el número total de soldados (n) y el proceso de eliminación (k). El resultado es la posición en la que Josephus debe sentarse para ser el último sobreviviente.
+
+```
+def ubicacion(n, k):
+    soldados = list(range(1, n + 1))
+    indice_soldado_actual = 0
+    
+    while len(soldados) > 1:
+        # Calculamos el índice del soldado a eliminar
+        indice_soldado_a_eliminar = (indice_soldado_actual + k - 1) % len(soldados)
+        
+        # Eliminamos al soldado
+        soldados.pop(indice_soldado_a_eliminar)
+        
+        # Actualizamos el índice del soldado actual para el próximo ciclo
+        indice_soldado_actual = indice_soldado_a_eliminar % len(soldados)
+    
+    return soldados[0]
+
+n_soldados = 41
+k_valor = 2
+posicion_ganadora = ubicacion(n_soldados, k_valor)
+
+print(f"Josephus debe sentarse en la posición {posicion_ganadora} para ser el último sobreviviente.")
+```
+
+# Práctica 7. Introducción a la Inteligencia Artificial: El papel de la heurística
+## Definicion de heuristica 
+Cuando buscamos resolver un problema de una complejidad considerable se puede volver complicado encontrar una solución óptima para este.
+
+La manera en que encontramos soluciones generalmente Busca ser muy concreta o atacar el problema de manera que se entienda perfectamente cómo y de qué modo se puede llegar a la solución. Sin embargo, esto puedo incrementar demasiado la complejidad de la resolución al punto que deja de ser rentable o se vuelve muy ineficiente el encontrar una solución óptima.
+
+Para muchos problemas la solución puede venir de varias maneras y aunque Generalmente existe una solución más óptima se puede resolver el problema de maneras menos eficientes pero más sencillas de pensar, existiendo soluciones comunes debido a la relativa simpleza con las que uno puede llegar a ellas a pesar de existir mejores soluciones.
+
+Aquí es cuando el papel de la heurística se vuelve importante pues esta permite tomar un problema complejo y simplificarlo en uno que se puede resolver de manera más simple aunque sin buscar una solución concreta y eficiente, sino que tomando únicamente los elementos mínimos suficientes para poder resolver el problema en cuestión.
+
+Así se puede llegar a soluciones bastante satisfactorias que además presentan un nivel de simpleza relativamente alto y que puede ser llevadas a cabo de manera aceptablemente eficiente aunque dejando el lugar para una solución más óptima.
+
+## Solucion y algoritmo con recursividad programado
+```
+def Solucion(matriz, inicio, entrada):
+    row, col = inicio
+    num_rows, num_cols = len(matriz), len(matriz[0])
+
+    if 0 <= row < num_rows and 0 <= col < num_cols:
+        up_value = matriz[row - 1][col] if row - 1 >= 0 else float('inf')
+        down_value = matriz[row + 1][col] if row + 1 < num_rows else float('inf')
+        left_value = matriz[row][col - 1] if col - 1 >= 0 else float('inf')
+        right_value = matriz[row][col + 1] if col + 1 < num_cols else float('inf')
+
+        min_value = min(up_value, down_value, left_value, right_value)
+
+        if min_value == up_value:
+            movimiento = row - 1, col
+        elif min_value == down_value:
+            movimiento = row + 1, col
+        elif min_value == left_value:
+            movimiento = row, col - 1
+        elif min_value == right_value:
+            movimiento = row, col + 1
+        
+        if movimiento[0] == 0 or movimiento[0] == num_rows - 1:
+            if  movimiento != entrada:
+                return movimiento
+        if movimiento[1] == 0 or movimiento[1] == num_cols - 1:
+            if  movimiento != entrada:
+                return movimiento
+        
+        matriz[row][col] += 0.1
+        
+        return Solucion(matriz, movimiento, entrada)
+
+    return None
+
+matriz = [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 0, 1],
+    [1, 1, 1, 0, 1, 1, 1, 0, 1],
+    [1, 0, 0, 0, 1, 0, 1, 0, 1],
+    [1, 0, 1, 1, 1, 0, 1, 0, 1],
+    [1, 0, 0, 0, 0, 0, 0, 0, 1],
+    [1, 0, 1, 1, 1, 0, 1, 0, 1],
+    [0, 0, 1, 0, 0, 0, 1, 0, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1],
+]
+
+inicio = (7, 0)
+
+end = Solucion(matriz, inicio, inicio)
+print("Entrada: ", inicio, "\nSalida:  ", end)
+```
+
+## Explicacion
+El funcionamiento del algoritmo sigue la solución propuesta y se adapta un código que sea ejecutable por Python.
+
+El algoritmo al ser recursivo funcionará llamándose a sí mismo cada que encuentre un nuevo espacio. Lo primero es definir qué información necesita el algoritmo para funcionar, este requiere de una matriz que representará el espacio, un punto que indicará en dónde se encuentra en la matriz, y una coordenada que indica cuál es la entrada para utilizarla al momento de diferenciar la salida.
+
+Este obtiene las coordenadas del punto en que se encuentra, además del tamaño que tiene la matriz. Después válida que el punto existe en la matriz y una vez hecho eso comienza a obtener los valores de los espacios que se encuentran una coordenada arriba, abajo, a la izquierda, y a la derecha, obteniendo después cuál es la coordenada del espacio que tiene el menor valor para así tomar este como el siguiente paso a dar.
+
+Una vez hecho eso se obtendrá la coordenada de este nuevo espacio y se analizará que esta no sea una salida, de no serlo se volverá a llamar la función de manera recursiva pasando la matriz donde el valor de la coordenada por la que se acaba de pasar se aumentará en 0.1, se le pasará un nuevo punto de inicio qué será el espacio al que se deberá de mover y el mismo punto de entrada para que la pueda diferenciar de la salida.
+
+Una vez hecho esto se le puede mandar una matriz inicial que posea un único cero en el borde y un camino recorrible donde la matriz puede tener cualquier tamaño y se respete los ceros y unos como representaciones de Laberinto. Este lo resolverá recorriéndolo para finalmente devolver el punto de entrada y el de salida.
 
 # Practica 8 Reglas y Búsquedas : Espacio de Estados
 
