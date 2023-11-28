@@ -43,23 +43,27 @@ Con esto no queda mas que concluir el trabajo recordando que al igual que cualqu
 
 ## Ensayo 1.2 - sobre el documental sobre IA
 ## Introducción
-El siguiente ensayo habla sobre la inteligencia artificial vista desde el punto de vista que propone el documental “Inteligencia Artificial” que nos otorga Discovery cannel en colaboración con IBM, la cual ha sido una pionera en el desarrollo de esta ciencia. Este documental nos presenta principalmente los distintos ámbitos más importantes en los que la misma ha tenido gran relevancia y aplicaciones como es el caso de los juegos de estrategia, la conversación, la industria, la educación y la salud. Por otro lado, nos habla de un tema importante el cual es como la inteligencia general puede ser un avance para su desarrollo. Es importante conocer las aplicaciones más importantes que ha tenido y también el futuro que la misma puede tener.
+El presente ensayo trata sobre la inteligencia artificial vista desde el punto de vista expuesto por el documental “Inteligencia Artificial” que nos otorga Discovery cannel en colaboración con IBM, la cual es una pionera en el desarrollo de esta ciencia. Principalmente el documental nos presenta los distintos ámbitos en los que la IA ha tenido una mayor relevancia, ademas de distintas aplicaciones como es el caso de los juegos de estrategia, la conversación, la industria, la educación y la salud. Por otro lado, abarco como la inteligencia general puede ser un avance para el desarrollo de dicha tecnologia. Considero que es importante conocer las aplicaciones más importantes que ha logrado ademas del futuro que la IA puede llegar a desarrollar.
 
 ## Desarrollo
-La inteligencia artificial es un tema con una amplia variedad de puntos de vista y como era de esperarse, es un tema que ha sido tratado incluso por la compañía de televisión Discovery Channel, la cual se dedica a la presentación de documentales de todos los temas científicos y sociales más importantes de la actualidad. El documental del que hablan en esta ocasión trata sobre esta disciplina, me parece muy interesante el enfoque que le dan y las cosas en común que se tienen con el libro “Inteligencia artificial: un enfoque moderno”. Pero primero hablemos sobre algunos temas que se tratan en el mismo. El documental fue realizado con la colaboración de IBM, una de las empresas de cómputo y tecnología más importantes y antiguas que existen. Un tema del que se aborda en primer lugar es que la inteligencia artificial no solo es una tecnología o una sola técnica, si no que se basa en muchas técnicas que se pueden aplicar para que un agente pueda aprender, tal como es el procesamiento de lenguaje natural o de imágenes por computadora. Es considerada como artificial cuando no se trata de un ser biológico aquel que puede tener entradas y salidas de información, pero con capacidad de tomar decisiones y resolver problemas. Las trivias. El primer ejemplo de aplicación en este campo que el documental nos muestra es Watson, la inteligencia artificial creada por IBM, nos muestra como en sus inicios esta intenta competir en el jugo de televisión Jeopardy, en el cual se presenta un concepto o definición y se tiene que contestar en forma de pregunta la palabra clave. Vemos que al principio Watson no podía contestar muy bien las preguntas, pero después de tener ciertas mejoras y haber adquirido un enorme conocimiento de libros con temas de los que se hablaba en el juego, finalmente pudo contestar la mayoría de las preguntas correctamente y en poco tiempo, haciendo consultas muy rápidamente. Podemos ver que en base al conocimiento que una inteligencia tiene, esta va llegando a mejores conclusiones, pero además se aplica el uso de la probabilidad para acercarse a las mejores respuestas, como en el caso de los debates, donde se van dando puntos de vista basados en los conocimientos previos que las personas tienen y en base a esto se llega a una conclusión sobre si el argumento de la persona que está a favor es mejor o de la que está en contra.
+La inteligencia artificial es un tema con una amplia variedad de puntos de vista asi como informacion acerca de la misma, siendo un tema que ha sido tratado incluso por la conocida compañía de televisión Discovery Channel, la cual se dedica, entre otras cosas, a la presentación y realizacion de documentales acerca de diversos temas científicos y sociales con mayor impacto en la actualidad. El documental que desarrollaron en esta ocasión abarca el tema de la inteligencia artificial, considero que el enfoque presentado en dicho documental tiene multiples cosas en comun  con el libro “Inteligencia artificial: un enfoque moderno”. 
+El documental fue realizado con la colaboración de IBM, una de las empresas de cómputo y tecnología más importantes y antiguas que existen. El eje central del documental es que la inteligencia artificial no solo es una tecnología o una sola técnica, si no que se basa en diversas técnicas que se pueden aplicar para que un agente pueda aprender, como por ejemplo esta el procesamiento de lenguaje natural o de imágenes por medio de una computadora. Una inteligencia es considerada como artificial cuando no se trata de un ser biológico y es aquella que puede o debe  tener entradas y salidas de información y a la vez contar con capacidad de tomar decisiones para resolver problemas. 
+**Las trivias.** 
+El primero de los ejemplos de una aplicacion real de la inteligencia artificial por parte del documental es Watson, la inteligencia artificial creada por IBM, nos muestra como en sus inicios esta fue diseñada para que intentara competir en el juego de televisión Jeopardy, el cual consiste en presentar una definición o un concepto y que los concursantes tengan que contestar en forma de pregunta la palabra clave a la que pertenece dicho concepto. Se puede observar que al principio Watson no era capaz de contestar de forma correcta las preguntas, pero luego de realizar varias sesiones de entrenamiento y haber adquirido un enorme conocimiento de libros con temas de los que se empleaban en el juego, finalmente fue capaz de contestar la mayoría de las preguntas correctamente, haciendo consultas muy rápidamente y ganando con mucha superioridad el concurso. Podemos observar como en base al conocimiento que una inteligencia artificial posee, esta va llegando a mejores conclusiones, pero además emplea la probabilidad para aproximarse a las mejores respuestas, como seria el caso de los debates, donde se van presentando puntos de vista basados en los conocimientos previos que las personas tienen acerca del tema en cuestion y en base a esto se llega a una conclusión sobre si cual de las dos posturas acerca del tema es mas solida.
 
 **La IA en el debate.** 
-El documental nos muestra un segundo ejemplo de la aplicación de la inteligencia artificial, en donde esta vez se trata de un debatiente que es una máquina capaz de escuchar y consultar todos los conocimientos que tiene en base a muchos documentos que tiene en si memoria, algo interesante en esta parte es que podemos notar que la capacidad de un ser humano de entender su propio lenguaje por ejemplo es muy fácil, pero en contraparte las maquinas tienen mucha más capacidad de memoria con respecto a la información que pueden consultar para generar sus respuestas y otro aspecto importante es que pueden seguir aprendiendo, cuando una maquina puede hacer uso del procesamiento de lenguaje natural incluso es capaz de comunicarse con una persona, como en este caso del debate en el que una debatiente es una mujer humana que argumenta en contra del tema de legalizar las apuestas deportivas, mientras que la inteligencia artificial está a favor y conforme va a aprendiendo más, consulta más información para poder contestar a los argumentos que la mujer dice.
+El siguiente ejemplo presentado por el documental sobre la aplicación de la inteligencia artificial se trata de un debatiente que es una máquina capaz de escuchar las afirmaciones de la oposicion y consultar todos los conocimientos que tiene en base a diversos documentos registrados en su memoria, algo llamatico en esta ejemplo es que podemos apreciar que la capacidad de un ser humano de entender su propio lenguaje es naturalmente sencillo, pero en contraparte las maquinas tienen que hacer uso de mucha más capacidad de memoria en relacion a la información que pueden consultar para generar sus respuestas, cuando una maquina es capaz de hacer uso del procesamiento de lenguaje natural consigue incluso comunicarse con una o varias personas, siendo este el caso del debate en el que una de las debatientes es una mujer que argumenta en contra del tema de legalizar las apuestas deportivas, mientras que aquel a favor es la inteligencia artificial que conforme va a aprendiendo más, consulta más información para poder contestar a los argumentos que la mujer dice y llegar a ser capaz de ganarle usando incluso carisma.
 
 **Los automóviles autónomos** 
-Cuando hablamos del aprendizaje automática también podemos pensar en conducir un automóvil, y es este otro tema que maneja el documental, dentro de este tema nos plantea que durante años se ha buscado el desarrollo de los automóviles autónomos, los cuales ya no necesitan de un conductor humano, estos tienen las capacidades de ser manejados por algún programa de inteligencia artificial, sin embargo no todo es tan bueno como suena, también podemos ver que nos explica como también puede conllevar muchos riesgos como accidentes y pérdidas de vidas, la mayoría de los ejemplares de inteligencia artificial se desarrollaron sabiendo que se equivocarían muchas veces y no habrían consecuencias graves, sin embargo si hablamos de los carros autónomos entonces si es algo muy delicado, algo importante que yo puedo destacar aquí es que para una persona es muy fácil comprender la subjetividad y la inestabilidad de como suceden las cosas en el mundo real, ya sea por experiencia, emociones o simple sentido común, sin embargo para una maquina esta percepción es más rígida y necesita tener un aprendizaje fuertemente sólido. Por lo que incluso nos menciona que, aunque si es posible este avance tecnológico, le tomará muchos años para poder concretarse. Para este punto me pareció interesante como es que un agente inteligente puede reconocer las cosas que percibe con el procesamiento de imagen, o lo que podríamos considerar sus ojos, o vista, y a su vez, este tiene ya un conocimiento de los objetos, de alguna manera los va clasificando y les pone etiquetas.
+El siguiente caso presentado por el documental es algo que siempre hemos escuchado acerca del futuro "los autos que se manejan solos", dentro de este tema nos presentan que durante muchos años se ha estado trabajando en el desarrollo de los famosos automóviles autónomos, los cuales como su nombre lo indica no necesitan de un conductor humano debido a que tienen la capacidad de ser manejados por un programa de inteligencia artificial, sin embargo como es natural tienen sus limitaciones, podemos ver que nos explican como esto puede conllevar varios riesgos como accidentes y pérdidas de vidas aunque estos accidentes ocurren igual con conductores humanos, la mayoría de los ejemplares de inteligencia artificial se desarrollaron sabiendo que se equivocarían muchas veces y no habrían consecuencias graves al ser probados en un entorno controlado, sin embargo al referirnos a los carros autónomos entonces si es un tema mas delicado, algo importante que considero importante destacar aquí es que para una persona es muy fácil comprender la subjetividad y la inestabilidad de como suceden las cosas en el mundo real a la hora de estar al volante, ya sea por experiencia propia, emociones individuales o simple sentido común, sin embargo para una maquina esta percepción es más rígida y necesita tener un aprendizaje fuertemente sólido basado en multiples entradas de datos. Por lo que incluso se nos informa que aunque si es posible realizar este avance tecnológico, le tomará muchos años para poder concretarse dependiendo del progreso de la IA y de las tecnologias que hacen posible su funcionamiento.
 
 **La IA en los juegos y las redes sociales** 
-La inteligencia artificial también ha tenido mucha aplicación en el ámbito de los juegos y los videojuegos, una de sus primeras aplicaciones es el juego de damas inglesas, tal como nos muestra IBM que creo su IA llamada DeepBlue, la cual mostró una gran habilidad para jugar juegos de estrategia como las damas, incluso logrando vencer al mejor jugador humano en un dado momento. También podemos ver que existen otros ejemplos como el de Go zero, una IA capaz de jugar un juego oriental llamado Go, el cual nos dice que tiene más posiciones o combinaciones en su tablero que el número de átomos en el universo, que es algo inimaginable, pero esta IA logra aprender los patrones para poder llegar a obtener su objetivo con la ruta más corta, es decir, con el menos número de movimientos posibles. De esta manera podemos también ver que no solo se trata de decidir de la forma más acertada, si no de llegar a esa decisión de la forma más rápido y de hacer las cosas de la forma más óptima. Otro aspecto en el que se ha aplicado la IA es en las redes sociales como Facebook, twitter y redes de música como spotify, en donde la plataforma aprende los patrones que más repite el usuario y le va mostrando información más acercada a sus tendencias.
+La inteligencia artificial tambien cuenta con diversas aplicaciones en el ámbito de los juegos y principalmente en los videojuegos, una de las mas conocidas es el juego de damas inglesas, tal como nos muestra IBM que creo su IA llamada DeepBlue, la cual mostró una gran habilidad para jugar juegos de estrategia por turnos como las damas, siendo capaz de vencer al mejor jugador humano en una partida luego de multiples sesiones de entrenamiento. otro ejemplo de esto es el de Go zero, una IA capaz de jugar un juego oriental llamado Go, el cual nos dice que tiene más posiciones o combinaciones en su tablero que el número de átomos en el universo, que es algo inimaginable, pero esta IA logra aprender los patrones para poder llegar a obtener su objetivo con la ruta más corta, es decir, con el menos número de movimientos posibles que es uno de los principales requerimientos que se tiene para ganar en este juego. De esta manera se nos muestra que no solo la IA es capaz de decidir de la forma más acertada sus jugadas, si no que es capaz de llegar a esa decisión de la forma más rápido y de realizar sus actividades de la forma más óptima posible. Otro aspecto en el que se ha aplicado la IA es en las redes sociales como bien son ejemplos Facebook, twitter y redes de música como spotify, en donde la plataforma aprende los patrones que más repite el usuario y le va mostrando información más acercada a sus tendencias que se va actualizando conforme el usuario use mas la aplicacion.
 
 **La IA en los trabajos** 
-El tema de la inteligencia artificial en el ámbito del trabajo ha sido también muy controversial, por un lado es el temor de muchas personas de que puedan perder sus trabajos por culpa de estas, pero por el otro también es importante tomar en cuenta que es una herramienta que se creó para ayudarnos de alguna manera, un punto importante que me gustaría mencionar es que hay muchos trabajos donde se pueden llevar a cabo tareas muy repetitivas e incluso peligrosas, y es principalmente en estos ámbitos en donde más vale la pena tomar en cuenta a la IA, el documental nos muestra el ejemplo de un robot, Soyer, el cual se usa para hacer tareas como cortar y perforar piezas de madera, pero a su vez, el personal humano le va enseñando la forma en que tiene que hacer sus actividades, de alguna manera vemos que es necesario el apoyo humano para que la IA pueda hacer su trabajo correctamente y la vez esta no se cansa de llevar a cabo actividades que pueden ser tediosas, creo que hay muchas ocasiones en las que al hacer cosas tediosas perdemos la concentración y si estamos en un trabajo peligroso como el que mencioné anteriormente si es más probable que suframos un accidente, pero una maquina no se va a cansar, una maquina solo necesita de su fuente de energía y sigue funcionando, a su vez, puede haber otra oportunidad de trabajo para la persona que ha sido reemplazada por esta. También pude notar que en el ejemplo mencionado la maquina tuvo su aprendizaje, pero por medio del entrenamiento, en donde pudo guardar los movimientos que la persona la iba mostrando y esta los tomaba para repetir esas acciones y realizar su trabajo, en este caso parece que las entradas fueron patrones de movimientos del cuerpo de la máquina. Si la IA puede aprender, puede enseñar. La IA también se ha desarrollado como una herramienta de apoyo en el ámbito de la educación como el ejemplo de la aplicación que se le dio a Watson para poder enseñar a los niños en sus primeros 8 años de vida, hasta ser un compañero de apoyo para estudiantes mayores como los universitarios, un ejemplo de este caso es la herramienta de chat GPT, el cual en base a sus conocimientos es una herramienta de consulta rápida de información que puede servir de apoyo para muchos estudiantes, aunque depende de la manera en que estos la utilicen y sobretodo, pienso que se debe de usar como una herramienta para enriquecer el conocimiento que ya tenemos, además de resolver el problema que se nos presente, y además de resolver alguna tarea más rápido, podamos aprender más rápidamente. Como herramienta de apoyo, se plantea que por otro lado la IA puede ser una compañera para personas con discapacidades como los invidentes, el documental nos muestra otro ejemplo de un hombre llamado Simon que padecía de una enfermedad de la retina, la cual ocasionó que perdiera la vista, pero él quiso ser lo más independiente posible de otras personas, la solución a esto fue un brazalete que usaba la aptica, una tecnología que hace uso de la comunicación por el sentido del tacto, el dispositivo con IA que utilizó para apoyarse era la wayband, la cual le ayudaba por medio de señales apticas a mantenerse corriendo o caminando por el camino correcta, a su vez, este hacía uso de datos como las rutas trazadas por el gps y la comunicación por internet, en este caso también podemos ver como la inteligencia artificial siempre está nutrida por los datos y estos a su vez deben ser útiles dentro del contexto en el que se pretende solucionar un problema, en este caso poder trazar un camino y comunicarse con una persona sin la capacidad de ver.
-
+Una de las areas mas controversiales en lo que inteligencia artifical se refiere es a las cuestiones laborales, por un lado existe ese temor de una cantidad considerable de personas de que puedan perder sus trabajos y ser reemplazados por una IA, pero por el otro también es importante tomar en cuenta que es una herramienta que se creó con el objetivo principal de ayudarnos no de perjudicarnos o reemplazarnos, uno de los puntos importantes al defender a las IA en este aspecto es que existen muchos trabajos donde se llevan a cabo tareas muy repetitivas e incluso peligrosas, y es principalmente en estos escenarios en donde se le puede sacar un mejor provecho a la IA, el documental nos muestra el ejemplo de un robot, Soyer, el cual se usa para cortar y perforar piezas de madera en un lugar de trabajo, mientras el personal humano le va enseñando la forma en que tiene que hacer sus actividades, de alguna manera vemos que es necesario el apoyo humano para que la IA pueda hacer su trabajo correctamente siguen dependiendo de nosotros y la vez esta no se cansa de llevar a cabo actividades que pueden ser tediosas para una persona,  una maquina solo necesita de su fuente de energía y sigue funcionando, a su vez, puede haber otra oportunidad de trabajo para la persona que ha sido reemplazada por esta atendiendo la propia maquina o sirviendo de apoyo. 
+En el ejemplo mencionado en el documental la IA demostro su aprendizaje ya que por medio del entrenamiento pudo guardar los movimientos que la persona la iba mostrando para repetir esas acciones y realizar su trabajo, en este caso parece que las entradas fueron patrones de movimientos del cuerpo que leugo fueron empleadas en la máquina. Si la IA tiene la capacidad de aprender entonces podria desarrollar la capacidad de enseñar. La IA ya ha sido empleada como una herramienta de apoyo en el ámbito de la educación, el ejemplo de la aplicación que se le dio a Watson para poder enseñar a los niños en sus primeros 8 años de vida, hasta ser un compañero de apoyo para estudiantes mayores como los universitarios, un ejemplo de esto es la conocida herramienta de chat GPT, el cual en base a sus conocimientos sobre multiples fuentes de informacion escrita le permite ser una herramienta de consulta rápida de información que puede servir de apoyo para muchos estudiantes y trabajadores, aunque depende de la manera en que estos la utilicen y sobretodo, pienso que se debe de usar como una herramienta para enriquecer el conocimiento que ya tenemos, además de resolver el problema que se nos presente, y además de resolver alguna tarea más rápido, podamos aprender más rápidamente no depender unicamente de ella. Como herramienta de apoyo, se plantea que por otro lado la IA puede ser una compañera para personas con discapacidades como por ejemplo los invidentes, el documental nos muestra otro ejemplo de un hombre llamado Simon que padecía de una enfermedad de la retina, la cual ocasionó que perdiera la vista, pero él queria ser lo más independiente posible de otras personas, la solución que encontro a esto fue un brazalete que usaba la aptica, una avanzada tecnología que hace uso de la comunicación por el sentido del tacto, el dispositivo con IA que utilizó para apoyarse era la wayband, la cual le ayudaba por medio de señales apticas a mantenerse corriendo o caminando por el camino correcto, a su vez, este hacía uso de datos como las rutas trazadas por el gps y la comunicación por internet, en este caso también podemos ver como la inteligencia artificial siempre está nutrida por los datos y estos a su vez deben ser útiles dentro del contexto en el que se pretende solucionar un problema, en el ejemplo presentado poder trazar un camino y comunicarse con una persona que no cuenta con la capacidad de ver.
+**Seguir revision, borrar esto luego**
 **La percepción de la IA y la privacidad** 
 Las máquinas que usan inteligencia artificial necesitan utilizar dispositivos en los que puedan recibir entradas de información como mencionaba anteriormente, para tener un oído usan micrófonos, para tener una voz usan un altavoz, por ejemplo, para una vista, una cámara y para un tacto, algún sensor. Con estas características una maquina ya puede percibir objetos o personas dentro del entorno en el que esta se encuentre, el documental nos muestra un ejemplo en el que la IA haciendo el uso del procesamiento de la imagen con la cámara puede detectar los rostros de las personas, todas las personas comparten características similares en sus rostros, todos tienen dos ojos, una nariz y una boca, cabe mencionar que puede haber casos excepcionales de los que la IA también tendría que aprender en el futuro. Al poder detectar los rostros de las personas ya se pueden tener muchas aplicaciones, nos habla de que hay un caso en el que en China se usó una IA para detectar a posibles criminales con solo observar su rostro, esto basado en los patrones o características que se presentan en los rostros de personas que han cometido delitos, sin embargo, nos menciona que esta característica también puede afectar a la privacidad de la gente, es un tema bastante claro que el precio de la seguridad es la privacidad individual que tenemos, por lo que creo que es un tema controvertido que también es importante, podríamos plantear que debe haber un equilibrio entre ambos pero la verdad es que solo probándolo en un cierto periodo de tiempo es cómo podríamos realmente saber si es conveniente esta aplicación de la inteligencia artificial. Me parece interesante como una maquina también puede procesar las imágenes que percibe en forma de matrices de datos numéricos en muy poco tiempo, además de que en el ejemplo anterior se nos menciona que se usan cámaras de video, o sea que hablamos del procesamiento de miles y miles de fotogramas por segundo, esto también resalta la enorme capacidad de procesamiento de información y almacenamiento de la misma y es una cualidad que puede tener como ventaja una maquina al hacer uso de la misma.
 
@@ -127,32 +131,113 @@ En la parte iterativa se utilizaría una función que pueda recorrer la matriz e
 
 ## Ejemplo iterativo:
 ```
-def contarElementosIterativo(matriz, fila, columna, color): 
-    if matriz[fila][columna] != color: 
-        return 0 contador = 0 referencia = [(fila, columna)] 
-    while referencia: f, c = referencia.pop() 
-        if 0 <= f < len(matriz) and 0 <= c < len(matriz[0]) and matriz[f][c] == color: 
-            contador += 1 matriz[f][c] = None
-        stack.append((f + 1, c)) 
-        stack.append((f - 1, c)) 
-        stack.append((f, c + 1)) 
-        stack.append((f, c - 1)) 
-        return contador 
+matriz = [
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0],
+[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0],
+[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+[0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+[0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+]
+
+filas = len(matriz)
+columnas = len(matriz[0])
+
+
+def explorar_isla(matriz, h, w):
+    if 0 <= h < filas and 0 <= w < columnas and matriz[h][w] == 1:
+        matriz[h][w] = 0 
+        explorar_isla(matriz, h + 1, w)
+        explorar_isla(matriz, h - 1, w)
+        explorar_isla(matriz, h, w + 1)
+        explorar_isla(matriz, h, w - 1)
+
+
+islas_contadas = 0
+
+for h in range(filas):
+    for w in range(columnas):
+        if matriz[h][w] == 1:
+            islas_contadas += 1
+            explorar_isla(matriz, h, w)
+
+print(f"El número de islas es: {islas_contadas}")
 ```
+Donde el color a contar seria 1
 
 ## Método recursivo.
 Para una forma recursiva el método sería similar en su declaración pero tendría que mandarse a llamar dentro pero indicando las diferentes direcciones en las que podría moverse la posición en la que estemos, tomando en cuenta claro, que si estamos en la posición 0, no podemos ir a un número negativo y el límite sería ya sea el ancho o el alto de la matriz, además si devolvemos un valor de 1 cuando vamos encontrando una isla cuando se sume el contador podemos usar como referencia la recursividad del método utilizado.
 
 ## Ejemplo recursivo:
 ```
-def contarElementosRecursivo(matriz, fila, columna, color): 
-    if not (0 <= fila < len(matriz)) or not (0 <= columna < len(matriz[0])) or matriz[fila][columna] != color: 
-        return 0 contador = 1 
-        matriz[fila][columna] = None 
-        contador += contarElementosRecursivo (matriz, fila + 1, columna, color) 
-        contador += contarElementosRecursivo (matriz, fila - 1, columna, color) 
-        contador += contarElementosRecursivo (matriz, fila, columna + 1, color) 
-        contador += contarElementosRecursivo (matriz, fila, columna - 1, color)
+def contarElementosRecursivo(matriz, fila, columna, color):
+    if not (0 <= fila < len(matriz)) or not (0 <= columna < len(matriz[0])) or matriz[fila][columna] != color:
+        return 0
+
+    contador = 1
+    matriz[fila][columna] = None
+
+    # Llamadas recursivas en todas las direcciones
+    contador += contarElementosRecursivo(matriz, fila + 1, columna, color)
+    contador += contarElementosRecursivo(matriz, fila - 1, columna, color)
+    contador += contarElementosRecursivo(matriz, fila, columna + 1, color)
+    contador += contarElementosRecursivo(matriz, fila, columna - 1, color)
+
+    return contador
+
+def contarIslas(matriz):
+    islas_contadas = 0
+
+    for h in range(len(matriz)):
+        for w in range(len(matriz[0])):
+            if matriz[h][w] == 1:
+                islas_contadas += 1
+                contarElementosRecursivo(matriz, h, w, 1)
+
+    return islas_contadas
+
+matriz = [
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0],
+    [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
+    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0],
+    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+    [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+    [0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+]
+
+print(f"El número de islas es: {contarIslas(matriz)}")
 ```
 
 ## Conclusión
@@ -165,30 +250,55 @@ Conforme se avanzó la tecnología fue capaz de manejarse valores de arreglos si
 El problema planteado en esta sección en realidad es algo muy similar a lo anteriormente resuelto en una matriz simple solo que ahora se deberá manejar una matriz mucho más grande y darle al que se tendrá que diferenciar elementos que No necesariamente pueden ser valorados de un único modo y generando una igualdad específica a la que se tiene que buscar de modo que si antes teníamos que buscar Islas ahora lo que tenemos que buscar son segmentos con valores dentro de un Rango asociado promediando los valores dentro del arreglo de cada sección de la matriz principal.
 
 ## Desarrollo
-Como ya se mencionó anteriormente Este es un problema que asemeja muchísimo al anterior donde se manejaba una matriz bidimensional.
-Lo que hacen realmente las imágenes de dibujar en una matriz múltiples valores en cada uno de sus segmentos o píxeles así nosotros podemos tomar una imagen en blanco y negro y aplicar el mismo algoritmo que se diseñó para la búsqueda de islas y así diferenciar cada elemento que contenga de manera continua uno de los tipos de píxeles permitidos en esa imagen monocromática.
-Para el caso de una imagen a color si lo que queremos es diferenciar uno de los colores en particular primero Debemos entender qué es lo que estamos buscando. Como dijimos en la sección de las imágenes se puede realizar una distinción entre varios valores de modo que se pueden buscar islas que tengan de valor uno luego otras que tengan el valor de dos y así sucesivamente diferenciando cada una del resto.
-Lo que estamos haciendo en una imagen a color Es que además de representar cada color con un valor en cada pixel los valores en sí tienen múltiples números pues poseen un arreglo que representa un color en un tipo de formato. Por eso es que nosotros no podemos determinar de manera tan precisa y determinada un solo color pues el rojo no será solo una combinación de estos valores sino que podrán ser varias y que Irán dentro de un rango específico por lo que se tendrá que determinar a partir de dónde Y hasta qué valor nosotros consideramos que algo es de color rojo.
-Para esto Entonces nosotros tenemos que comenzar generando un Rango de valores que nosotros son los que queremos explorar y así determinar qué elementos son los que vamos a diferenciar del resto. Este rango de valores deberá tomar en cuenta cada vector de cada pixel por lo que será una combinación de múltiples valores donde cada uno de ellos tendrá un rango específico pudimos nosotros determinar por ejemplo el rango en un vector más pequeño.
-Este sería llamado vector de comparación Y determinaría qué valores pueden ser aceptados comparando como si fuese un rango de colores que nosotros pudiésemos ver y viendo el color que estamos comparando para así determinar si es parecido o no y decidir si queremos descartarlo o no.
-Así nosotros podríamos generar un algoritmo muy similar al de las islas donde en lugar de determinar si hay un valor igual al en que estamos parados veríamos más bien un rango de valores y podríamos así nosotros generar una isla a partir de estos distintos valores sin tener que limitarnos a uno único. Otro problema que podría surgir dentro del determinar cuántos objetos existen de un solo color podría ser el arreglo en el que están acomodados los distintos elementos o píxeles que conforman un objeto dentro de la imagen, pues si hubiesen píxeles en diagonal o pixeles ligeramente alejados pero que conforman parte de un mismo objeto, como puede ser al tener un elemento separado por un ligero contorno de un color diferente, nosotros contaríamos estos como parte de distintos objetos en lugar de considerarlo uno solo.
-Este tipo de calibración se puede corregir si nosotros tomamos en cuenta un rango alrededor del que se valen los distintos objetos como si nosotros al ejecutar el algoritmo de manera física tuviésemos que dar pasos extras asumiendo que quizá el color adyacente no es el mismo pero una casilla después sí que lo es por lo que tendríamos que dar pasos extra.
-También tendríamos que considerar dar pasos en diagonal de modo que habría que agregar cuatro nuevos estados a los que habría que explorar y dentro de cada uno de esos volver a hacer la exploración de los cuatro nuevos estados considerando ahora todo el contorno adyacente posible de cada Pixel. De este modo se puede notar como la complejidad de este tipo de matriz sí que incrementa la dificultad de la resolución Aunque al final sigue siendo una muy similar a la de su versión simplificada.
-Ese tipo de problemas agrega una complejidad avanzada debido a que en las distintas imágenes no siempre va a ser del mismo modo que en las más sencillas.
-Por ello puede que la misma solución no sea efectiva para todo tipo de problemas y se tienen que comenzar a desarrollar algoritmos mucho más específicos y que atacan de manera más puntual al problema que se está buscando resolver.
-Puede ser que nosotros busquemos objetos muy claramente definidos y sin contornos por los que podríamos aplicar una solución más sencilla que nos permitiría ser más eficientes.
-También pudiese ser que nosotros estuviésemos manejando colores muy definidos y que no varían en su rango donde la paleta de color está bastante limitada pudiendo nosotros ejecutar el algoritmo sin necesidad de definir un rango y generando simplemente promedios a partir de los cuales nosotros podríamos continuar la búsqueda como en el algoritmo principal.
-Así pueden haber multitud de casos donde la solución más efectiva no va a ser la misma que para otros. Nosotros tenemos que determinar de manera particular y según lo que nosotros queramos encontrar cuál algoritmo es más eficiente y qué métodos pueden ser los necesarios o los más óptimos para llegar a una solución que se pueda considerar la mejor.
-Aquí es donde demuestra su efectividad la Inteligencia artificial. A nosotros requerir analizar un conjunto de imágenes para determinar Cuál es la mejor manera de encontrar cierto elemento nosotros nos vemos en la necesidad de desarrollar un algoritmo diferente cada vez. La inteligencia artificial lo que logra es ejecutar esos análisis y determinar así ella misma cuál es la mejor manera de obtener ciertos resultados o de encontrar cuáles son los elementos que se están buscando de acuerdo a parámetros que nosotros le definamos diciéndole o mostrándole en este caso los elementos de una imagen que nosotros sabemos que están allí y que queremos buscar y entrenarla mediante estos elementos para que ella sea capaz de determinar el algoritmo preciso y más efectivo para encontrar elementos similares en imágenes nuevas que nosotros le podamos dar a futuro.
-En cierto modo lo que estamos haciendo es un algoritmo que se encarga de buscar algoritmos al ejecutar un análisis exhaustivo y profundo que nosotros de otro modo nos costaría mucho trabajo o tendríamos que hacer manualmente cada que quisiésemos cambiar el elemento o tipo de imagen que buscamos o tenemos que manejar además de no ser fácil el combinarlo con otro tipo de modelos ya existentes. Por ello Es que la inteligencia artificial se vuelve relevante al resolver este tipo de problemas que varían a partir de uno más sencillo Pues nos ayudan a generar soluciones específicas a problemas particulares.
+La primera impresión que tengo de este problema es que veo una imagen con muchos objetos distribuidos y que además hay una gran variedad de colores. La mayoría de estos son alimentos que tienen tamaños, formas y colores distintos. Lo primero que se me viene a la mente en esta situación es que en un concepto muy básico una imagen puede ser considerada como una matriz, una matriz de pixeles, a fin de cuentas, en donde cada uno tiene un color distinto. 
+Otra característica que observo es que la imagen es una matriz muy grande que, de hecho, su tamaño puede no siempre estar definido como lo es el caso de una matriz pequeña, pero a fin de cuentas si tomamos las medidas del número de filas y columnas entonces el ejercicio se puede resolver de manera muy similar al anterior, que es el de las islas, a fin de cuentas, en este caso es como si contáramos islas, pero ahora manejando un color como referencia. 
+Para tener una referencia más clara y limitar los colores podríamos utilizar los rangos numéricos en que los colores se acercan a los tonos rojos y tener una sola referencia para detectar todos los objetos que puedan considerarse “rojos”. Los colores que normalmente hemos manejado en estos rangos son los RGB que son los tres colores primarios que forman a los demás, aunque solo es un formato de muchos que se manejan para el color digital. 
+El primer paso sería poder procesar la imagen para convertirla en una matriz, esto utilizando una librería que permita el manejo de imágenes y colores como el caso de open cv del lenguaje Python, luego definir los colores. Además se debería definir un contador para guardar el número de elementos, objetos o islas encontrados con la característica que se solicita. Ejemplo de algoritmo.
+
+```
+r1 = 100, g1 = 0, b1 = 0
+r2 = 255, g2 = 100, b2 = 100
+islas = 0
+
+mapa = cv.imread('atividad5.png', 1)  #leer los 3 canales con 1
+w =mapa.shape[0]
+h =mapa.shape[1]   #w y h para el ancho y alto de la imagen (filas y columnas)
+#funcion para evaluar el color 
+def rojo(i, j):
+    if(mapa[i, j][2] >= r1 and mapa[i, j][2] <= r2):
+        if(mapa[i, j][1] >= g1 and mapa[i, j][1] <= g2):
+            if(mapa [i, j][0] >= b1 and mapa[i, j][0] <= b2):
+                return True;
+    return False;
+
+Método recursivo. 
+def metodoRecursivo(i, j):
+    if not(i < 0 or i >= w or j < 0 or j >= h):
+        if(rojo(i,j)):
+            mapa[i,j][2] = 0
+            mapa[i,j][1] = 0
+            mapa[i,j][0] = 0
+            metodoRecursivo(i - 1, j)
+            metodoRecursivo(i + 1, j)
+            metodoRecursivo(i, j - 1)
+            metodoRecursivo(i, j + 1)
+    return
+
+Ejemplo iterativo: 
+for i in range(w):
+    for j in range(h):
+        if(rojo(i, j)):
+            islas += 1
+            metodoRecursivo(i, j);
+Mostrar resultados 
+cv.imshow('Original',mapa)
+print('islas:',islas)
+cv.waitKey(0)
+cv.destroyAllWindows()
+```
 
 ## Conclusión
-Así nosotros podemos darnos cuenta de la relevancia que tiene las ciencias enfocadas en la Inteligencia artificial pues estas nos ayudan a la resolución de problemas que se vuelven más complejos y específicos conforme se avanza en cierto sector.
-Nosotros podemos desarrollar un algoritmo específico para problemas simples como lo puede hacer la búsqueda de islas, sin embargo conforme estos problemas van agarrando complejidad y se van rodeando de factores que nosotros no habíamos considerado al momento de desarrollar el algoritmo principal se complican de manera exponencial e implican resoluciones para las que nosotros Puede que no estuviésemos preparados lo que requerirían de muchísima capacidad y tiempo en resolver.
-Al final estamos delegando la tarea de solucionar un problema a un algoritmo que se encarga de eso de solucionar problemas a partir de un análisis exhaustivo lo que es capaz de ahorrarnos muchísimo trabajo al momento de desarrollar algoritmos muy particulares.
-Nosotros podemos enfocar este tipo de análisis en búsquedas Como por ejemplo de células en imágenes de un tipo en particular, o de un tipo de estrellas que se iluminan con una frecuencia muy específica que incluso puede ser difícil de ver para el ojo humano pero que una computadora es capaz de buscar en imágenes enormes generadas por telescopios y a través de vastas y vastas extensiones de espacio con estrellas tan diminutas que una persona le tomaría muchísimo tiempo y entrenamiento el poder reconocer de manera eficaz.
-Estos son el tipo de tareas que nosotros buscamos en las que nos ayuden las inteligencias artificiales pues son tareas para las que nosotros no podemos prepararnos absolutamente o completar de manera a 100% efectiva debido a que nuestras capacidades humanas nos lo impiden y que aunque Nosotros somos capaces de mejorar y ejecutarlas en cierto tiempo para poder aplicarlas lo suficientemente bien, la realidad es que una computadora con todas sus capacidades si fuese capaz de realizar las mismas tareas o reconocimientos que nosotros lo haría muchísimo mejor.
-Así la Inteligencia artificial demuestra como al menos en el área de resolución de problemas particulares es extremadamente útil y nos brinda de una herramienta a la que antes no teníamos acceso y que nos permitirá analizar cantidades masivas de datos Y en problemas que quizás nosotros no hemos notado pero que a lo largo del tiempo puedan surgir o que ya han surgido y nosotros aún no somos capaces de darle una solución con la que podamos estar satisfechos.
+El ejemplo tratado es muy similar al anterior, donde solo se contaban islas, de hecho, entre más pequeños son los pixeles, más curveadas pueden apreciarse esas islas, pero viéndolos desde la perspectiva de una matriz, sabemos que también son cuadradas como el caso de una matriz que es más pequeña. Para el cerebro humano es más fácil detectar los objetos con colores porque no necesita hacer un análisis tan profundo del mismo, solo observa un todo en el que hay formas, colores, tamaños y diseños. En el caso de una computadora, esta tiene que aprender a procesar las imágenes como en este ejemplo, como si estas fueran una matriz y existen algunas librerías, como lo es open cv de Python que resultan muy útiles para el desarrollo de inteligencias artificial enfocada a la visión.
 
 
 # Práctica 6. Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica
