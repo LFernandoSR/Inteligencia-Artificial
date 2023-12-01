@@ -71,16 +71,16 @@ Una de las areas mas controversiales en lo que inteligencia artifical se refiere
 En el ejemplo mencionado en el documental la IA demostro su aprendizaje ya que por medio del entrenamiento pudo guardar los movimientos que la persona la iba mostrando para repetir esas acciones y realizar su trabajo, en este caso parece que las entradas fueron patrones de movimientos del cuerpo que leugo fueron empleadas en la máquina. Si la IA tiene la capacidad de aprender entonces podria desarrollar la capacidad de enseñar. La IA ya ha sido empleada como una herramienta de apoyo en el ámbito de la educación, el ejemplo de la aplicación que se le dio a Watson para poder enseñar a los niños en sus primeros 8 años de vida, hasta ser un compañero de apoyo para estudiantes mayores como los universitarios, un ejemplo de esto es la conocida herramienta de chat GPT, el cual en base a sus conocimientos sobre multiples fuentes de informacion escrita le permite ser una herramienta de consulta rápida de información que puede servir de apoyo para muchos estudiantes y trabajadores, aunque depende de la manera en que estos la utilicen y sobretodo, pienso que se debe de usar como una herramienta para enriquecer el conocimiento que ya tenemos, además de resolver el problema que se nos presente, y además de resolver alguna tarea más rápido, podamos aprender más rápidamente no depender unicamente de ella. 
 Como herramienta de apoyo, se plantea que por otro lado la IA puede ser una compañera para personas con discapacidades como por ejemplo los invidentes, el documental nos muestra otro ejemplo de un hombre llamado Simon que padecía de una enfermedad de la retina, la cual ocasionó que perdiera la vista, pero él queria ser lo más independiente posible de otras personas, la solución que encontro a esto fue un brazalete que usaba la aptica, una avanzada tecnología que hace uso de la comunicación por el sentido del tacto, el dispositivo con IA que utilizó para apoyarse era la wayband, la cual le ayudaba por medio de señales apticas a mantenerse corriendo o caminando por el camino correcto, a su vez, este hacía uso de datos como las rutas trazadas por el gps y la comunicación por internet, en este caso podemos ver como la inteligencia artificial está nutrida por los datos y estos a su vez deben ser útiles dentro del contexto en el que se pretende solucionar un problema dado, en el ejemplo presentado poder trazar un camino y comunicarse con una persona que no cuenta con la capacidad de ver.
 
+**La inteligencia artificial en la rama de la salud** 
+
+Abarcando el tema de la salud de las personas se nos muestra un ejemplo en el documental de su aplicación en la que un hombre que padece de parkinson, una enfermedad asociada al movimiento de las articulaciones, se le desarrollo una IA que tiene como iniciativa poder ayudar a personas con situaciones similares a la suya, algo importante que podemos denotar en esto es que la IA a la que se recurre es Watson  la IA de IBM vista con anterioridad pero ahora aplicada al ámbito de la salud, específicamente hacia la enfermedad del parkinson, se presenta como la IA tiene un conocimiento sobre dicha enfermedad y entonces rápidamente puede hacer una recomendación de los fármacos que le pueden servir a cada persona en base a los datos que tenga el sistema de cada uno de los pacientes.
+Dicha IA es presentada como una herramienta compañera para los médicos y los enfermeros a quienes se les puede presentar la situación de que necesitan consultar algún medicamento o sustancia que las ayude si por ejemplo se encuentran en una situación de emergencia o incluso alguna operación de un paciente, en este tipo de situaciones el tiempo es una variable e importante ya que puede marcar la diferencia entre la vida y la muerte, por otro lado, cconsidero que en cuestión de los pacientes puede ser una compañera de apoyo para cuando se quieren rehabilitar o para poder llevar correctamente sus tratamientos, como seres humanos, siempre tendemos a ser muy variables y a equivocarnos en la precisión para las cosas que hacemos, como seguir un plan de recuperación por ejemplo o llevar el control de las medicinas que nos tocan a diversas horas.
+
 **La percepción de la IA y la privacidad de la gente** 
 
 En la actualidad las máquinas que emplean el uso de inteligencia artificial ocupan disponer de dispositivos en los que puedan recibir multiples entradas de información dependiendo del contexto en que se empleen como se menciono anteriormente, para tener un "oído" usan micrófonos, para tener una "voz" emplean un altavoz, para una "vista" una cámara y para una especie de "tacto" emplean algún tipo de sensor. Con este tipo de características una maquina es capaz de percibir objetos o personas dentro del entorno en el que esta se encuentre, en el documental se nos presenta el ejemplo en el que la IA haciendo el uso del procesamiento de la imagen con la cámara es capaz de detectar los rostros de las personas, esto debido a que todas las personas comparten características similares en sus rostros, todos tienen dos ojos normalmente, una nariz y una boca distinguibles. Al ser capaces de detectar los rostros de las personas se crearon una cantidad considerable de aplicaciones.
 El documental nos habla de que en China se usó una IA para detectar a posibles criminales con solo observar su rostro muy de peliculas la verdad, esto basado en los patrones o características que se presentan en los rostros de personas que han cometido delitos, sin embargo, se nos especifica que esta característica también puede afectar a la privacidad de la gente, es un tema que no es reciente ya que desde antes de las propias IA la privacidad en cuanto a lo que hacemos siempre ha sido cuestionada por cada nueva tecnologia que rastrea nuestras actividades, se podría plantear que debe existir un equilibrio entre la privacidad y la eficiencia pero siendo sinceros la linea que determina que tanto estamos dispuestos a permitir es muy delgada y varia de persona a persona. 
 Es cuanto menos llamativo como una maquina es capaz de procesar las imágenes que percibe en forma de matrices de datos numéricos en intervalos de tiempo tan cortos, además de que en el ejemplo anterior se nos menciona que se usan cámaras de video, o sea que hablamos del procesamiento de miles y miles de fotogramas por segundo a mas de un objeto a la vez, esto también resalta la enorme capacidad de procesamiento de información y almacenamiento con la que cuenta dicha tecnologia.
-
-**La inteligencia artificial en la rama de la salud** 
-
-Abarcando el tema de la salud de las personas  se nos muestra un ejemplo en el documental de su aplicación en la que un hombre que padece de parkinson, una enfermedad asociada al movimiento de las articulaciones, se le desarrollo una IA que tiene como iniciativa poder ayudar a personas con situaciones similares a la suya, algo importante que podemos denotar en esto es que la IA a la que se recurre es Watson  la IA de IBM vista con anterioridad pero ahora aplicada al ámbito de la salud, específicamente hacia la enfermedad del parkinson, se presenta como la IA tiene un conocimiento sobre dicha enfermedad y entonces rápidamente puede hacer una recomendación de los fármacos que le pueden servir a cada persona en base a los datos que tenga el sistema de cada uno de los pacientes.
-Dicha IA es presentada como una herramienta compañera para los médicos y los enfermeros a quienes se les puede presentar la situación de que necesitan consultar algún medicamento o sustancia que las ayude si por ejemplo se encuentran en una situación de emergencia o incluso alguna operación de un paciente, en este tipo de situaciones el tiempo es una variable e importante ya que puede marcar la diferencia entre la vida y la muerte, por otro lado, cconsidero que en cuestión de los pacientes puede ser una compañera de apoyo para cuando se quieren rehabilitar o para poder llevar correctamente sus tratamientos, como seres humanos, siempre tendemos a ser muy variables y a equivocarnos en la precisión para las cosas que hacemos, como seguir un plan de recuperación por ejemplo o llevar el control de las medicinas que nos tocan a diversas horas.
 
 **La singularidad y la inteligencia general** 
 
@@ -122,20 +122,277 @@ La inteligencia que podemos notar que poseen las personas siempre se enfoca en a
 
 # Practica 3 Introducción a la inteligencia artificial Introspección
 ## Introducción
-Este ensayo aborda el tema sobre resolver un desafío, el cual consiste en intercambiar la posición de 4 alfiles blancos y 4 negros que se encuentran en la primera y última fila respectivamente en un tablero de ajedrez de 5 x 4, la idea es interpretar la solución desde el punto de vista introspectivo. La importancia de este ensayo radica en conocer o tener un mejor entendimiento del proceso cognitivo y de resolución de problemas que tiene la inteligencia artificial conociendo el que tenemos los seres humanos, la inteligencia artificial pretende funcionar de la misma manera que la inteligencia natural del ser humano, que hasta el momento es el ser vivo con la máxima capacidad de utilizar la misma y además ser consciente.
+En este ensayo se aborda el como resolver un desafío, el cual consiste en intercambiar la posición de 4 alfiles blancos y 4 negros que se encuentran en la primera y última fila respectivamente en un tablero de ajedrez de dimensiones 5 x 4, la idea del ejercicio es interpretar la mejor solución desde el punto de vista introspectivo. 
+La finalidad de este ensayo es conocer o tener un mejor entendimiento del proceso cognitivo y de resolución de problemas que se aplicaria a la inteligencia artificial basandonos en lo que tenemos los seres humanos, la inteligencia artificial pretende funcionar de la misma manera o muy cercana por lo menos a la inteligencia "natural" del ser humano.
 
 ## Desarrollo
-**Percepción y análisis del problema.**
-El problema que se presenta es un tablero similar al del ajedrez, pero en una versión más pequeña. En primer lugar, lo que hago es observar el tablero que tiene 5 filas y 4 columnas, la primera y la última fila son las únicas que tienen alfiles, la primera tiene 4 ejemplares blancos y la segundo a su vez tiene 4 ejemplares negros. Después de observar el tablero lo que hago es deducir que al alfil solo puede realizar movimientos en forma diagonales como en el juego tradicional de ajedrez, por lo que la única manera de cambiarlos de posición es llevándolos en pasos con forma de diagonal. Las diagonales como en el juego tradicional, pueden ser de 2 a n cuadros, claro que tomando en cuenta la medida del tablero, ese es otro detalle que también comienzo a tomar en cuenta. En primer lugar, observo que los afiles no se pueden mover en una diagonal más grande de 2 cuadros, puesto que si exceden esta medida entonces quedarían en los posibles caminos de los que están en el extremo opuesto.
+**Análisis del problema.**
+En primer lugar, podemos observar que el tablero tiene 5 filas y 4 columnas, la primera y la última fila son las únicas que tienen alfiles respectivamente, la fila superior tiene 4 alfires blancos y la fila inferior tiene 4 alfires negros. Conociendo las reglas basicas del juego del ajedrez podemos establecer que los alfiles solo pueden realizar movimientos en forma diagonales, por lo que la única manera de cambiarlos de posición es moverlos en el tablero de esa forma sin que colisionen entre si o con otro alfil. 
+Las diagonales como en el ajedrez, pueden ser de 1 a n cuadros, aunque tomando en cuenta los detalles del tablero lo maximo que podria moverse dependeria de su posicion inicial. Si queremos evitar que esten dentro del campo de accion del resto de los afiles entonces podemos ver que estos no se pueden mover en una diagonal de distancia mayor a 2 cuadros, debido a que si exceden esta distancia entonces se encontrarian en los posibles caminos de los alfiles que se encuentran en el extremo opuesto.
 
 **Estrategia inicial**
-Desde el punto de vista más fácil lo primero que se me vino a la mente fue mover los alfiles de forma que no importase que quedaran en los posibles caminos de los del otro color, viéndolo con esa lógica el primer movimiento que pensé fue en mover al segundo alfil blanco hacia la fila siguiente, pero en el extremo izquierdo, después hacer el mismo movimiento con el alfil negro de hasta el otro lado, lo que observe en este punto es que se formó una cierta simetría, el campo vacío que dejo el alfil negro lo pudo ocupar el alfil blanco y viceversa. Al notar que, al mantener cierta simetría, lo siguiente que hice mover de la misma manera los alfiles de la primera fila de la misma forma, pero del lado opuesto, es decir, simétricamente con respecto a la fila. Llegue a un punto en el que había que regresar a la primera fila el alfil blanco y el negro para poder repetir otro patrón de simetría y que quedara el camino libre para los demás alfiles y llegaran lo más rápido posible hacia el otro lado.
+Debido a la naturaleza del problema hay cierta informacion que nos presentan los propios datos iniciales, uno no debe adelantarse a realizar movimientos apresurados cuando al hacer cuentas el tablero de 5x4 es un numero par y la cantidad de alfiles con los que se cuenta en un inicio tambien es un numero par por lo que lo mas probable es que la solucion tenga cierta simetria y funcione como un espejo un lado con el otro. Al intentar mantener dicha simetría, lo que hice fue empezar a mover los alfiles de la fila superior de la misma forma, pero como espejo, es decir, simétricamente inverso con respecto a la fila inferior del tablero. Avanzando de esta forma se llega a un punto en el que se debia de regresar a la primera fila al primer alfil blanco y al negro para poder repetir otro patrón de simetría de ambos lados con otros alfiles y que de esa manera quedara el camino libre para que los demás alfiles lograran moverse libremente.
 
 **Movimientos**
-Si se mantenía la simetría se podían mover los alfiles alternadamente entre los dos colores, había por ejemplo ocasiones en las que había que moverse un solo cuadro y otras en las que se movían dos, note que este patrón también se repetía mucho. En los últimos movimientos quedaban diagonales en los extremos del tablero, por ejemplo, en la fila de hasta abajo (donde inicialmente se encontraban los alfiles blancos), quedaban dos diagonales de alfiles negros y en el otro lado el mismo caso, pero del color contrario. Al ver esto me percaté que solo faltaban 2 movimientos respectivamente para cada color, es decir, 4 movimientos en total y se llegaba a la solución. Movimientos para la solución Cada vez que simulaba un movimiento dibujándolo en la libreta iba contando cada uno, otro detalle aquí es que cada vez que un alfil blanco hacia un movimiento, la mejor estrategia era hacer que el siguiente alfil negro hiciera un movimiento similar, pero de forma simétrica, fue así como llegué a la solución. El número total de movimientos fue de aproximadamente 30 o 32, si es que no me comí alguno.
+Al mantener la simetria de los movimientos somos capaces de mover de forma adecuada y uno a uno los alfiles de los dos colores, entre los diversos casos con los que nos encontrabamos es que existian ocasiones en las que se debia de mover un solo cuadro de distancia en una direccion y otras en las que se desplazaba tres, siendo que la cantidad de desplazamiento de los alfiles terminaba por repetirse junto con la simetria. 
+Llegando a los últimos movimientos realizados para el ejercicio nos quedaban diagonales en los extremos del tablero, por ejemplo, en la fila de hasta abajo (donde inicialmente se encontraban los alfiles blancos), quedaban dos diagonales de alfiles negros y en el otro lado el mismo caso, pero del color contrario manteniendo la debida simetria. Al ver esto me percaté que solo faltaban 2 movimientos respectivamente para cada color, es decir, 4 movimientos en total y se llegaba a la solución. 
+Cada vez que un alfil blanco hacia un movimiento, la mejor estrategia era hacer que el siguiente alfil negro hiciera un movimiento similar, pero de forma de espejo, fue así como llegué a la solución. El número total de movimientos requeridos para llegar a la solucion del problema se muestran a continuacion en tablas.
+
+| B1 | B2 | B3 | B4 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| N1 | N2 | N3 | N4 |
+
+| B1 | B2 | B3 | B4 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | N2 | ** |
+| N1 | ** | N3 | N4 |
+
+| B1 | B2 | ** | B4 |
+| -- | -- | -- | -- |
+| ** | B3 | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | N2 | ** |
+| N1 | ** | N3 | N4 |
+
+| B1 | B2 | ** | B4 |
+| -- | -- | -- | -- |
+| ** | B3 | ** | N1 |
+| ** | ** | ** | ** |
+| ** | ** | N2 | ** |
+| ** | ** | N3 | N4 |
+
+| B1 | B2 | ** | ** |
+| -- | -- | -- | -- |
+| ** | B3 | ** | N1 |
+| ** | ** | ** | ** |
+| B4 | ** | N2 | ** |
+| ** | ** | N3 | N4 |
+
+| B1 | B2 | ** | ** |
+| -- | -- | -- | -- |
+| ** | B3 | ** | N1 |
+| ** | ** | ** | ** |
+| B4 | N3 | N2 | ** |
+| ** | ** | ** | N4 |
+
+| B1 | ** | ** | ** |
+| -- | -- | -- | -- |
+| ** | B3 | B2 | N1 |
+| ** | ** | ** | ** |
+| B4 | N3 | N2 | ** |
+| ** | ** | ** | N4 |
+
+| B1 | ** | ** | ** |
+| -- | -- | -- | -- |
+| N2 | B3 | B2 | N1 |
+| ** | ** | ** | ** |
+| B4 | N3 | ** | ** |
+| ** | ** | ** | N4 |
+
+| B1 | ** | ** | ** |
+| -- | -- | -- | -- |
+| N2 | ** | B2 | N1 |
+| ** | ** | ** | ** |
+| B4 | N3 | ** | B3 |
+| ** | ** | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| N2 | ** | B2 | ** |
+| ** | ** | ** | ** |
+| B4 | N3 | ** | B3 |
+| ** | ** | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| N2 | ** | B2 | ** |
+| ** | ** | ** | ** |
+| ** | N3 | ** | B3 |
+| ** | B4 | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| N2 | ** | B2 | ** |
+| N3 | ** | ** | ** |
+| ** | ** | ** | B3 |
+| ** | B4 | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| N2 | ** | ** | ** |
+| N3 | ** | ** | B2 |
+| ** | ** | ** | B3 |
+| ** | B4 | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| N2 | ** | ** | ** |
+| N3 | ** | B3 | B2 |
+| ** | ** | ** | ** |
+| ** | B4 | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| N3 | N2 | B3 | B2 |
+| ** | ** | ** | ** |
+| ** | B4 | ** | N4 |
+
+| B1 | ** | N1 | ** |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | N2 | B3 | B2 |
+| ** | ** | ** | ** |
+| ** | B4 | N3 | N4 |
+
+| B1 | B2 | N1 | ** |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | N2 | B3 | ** |
+| ** | ** | ** | ** |
+| ** | B4 | N3 | N4 |
+
+| B1 | B2 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | B3 | ** |
+| ** | ** | ** | ** |
+| ** | B4 | N3 | N4 |
+
+| B1 | B2 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| B3 | B4 | N3 | N4 |
+
+| B1 | B2 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | N4 | ** | ** |
+| ** | ** | ** | ** |
+| B3 | B4 | N3 | ** |
+
+| ** | B2 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | N4 | B1 | ** |
+| ** | ** | ** | ** |
+| B3 | B4 | N3 | ** |
+
+| ** | B2 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| N1 | N4 | B1 | B4 |
+| ** | ** | ** | ** |
+| B3 | ** | N3 | ** |
+
+| ** | B2 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| N1 | ** | B1 | B4 |
+| N4 | ** | ** | ** |
+| B3 | ** | N3 | ** |
+
+| ** | B2 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | B1 |
+| N1 | ** | ** | B4 |
+| N4 | ** | ** | ** |
+| B3 | ** | N3 | ** |
+
+| ** | B2 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | B1 |
+| N1 | ** | ** | B4 |
+| N4 | ** | ** | N3 |
+| B3 | ** | ** | ** |
+
+| ** | ** | ** | N2 |
+| -- | -- | -- | -- |
+| B2 | ** | ** | B1 |
+| N1 | ** | ** | B4 |
+| N4 | ** | ** | N3 |
+| B3 | ** | ** | ** |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| B2 | ** | ** | B1 |
+| N1 | ** | ** | B4 |
+| N4 | ** | ** | ** |
+| B3 | ** | ** | ** |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | B1 |
+| N1 | ** | ** | B4 |
+| N4 | ** | ** | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | ** | B1 |
+| ** | ** | ** | B4 |
+| N4 | ** | ** | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | ** | B1 |
+| ** | ** | ** | ** |
+| N4 | ** | B4 | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | N4 | B1 |
+| ** | ** | ** | ** |
+| ** | ** | B4 | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | ** | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | N4 | ** |
+| ** | ** | ** | ** |
+| ** | B1 | B4 | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | N4 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | ** | ** |
+| ** | ** | ** | ** |
+| ** | B1 | B4 | ** |
+| B3 | ** | ** | B2 |
+
+| N3 | N4 | ** | N2 |
+| -- | -- | -- | -- |
+| ** | N1 | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | B4 | ** |
+| B3 | ** | B1 | B2 |
+
+| N3 | N4 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | B4 | ** |
+| B3 | ** | B1 | B2 |
+
+| N3 | N4 | N1 | N2 |
+| -- | -- | -- | -- |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| ** | ** | ** | ** |
+| B3 | B4 | B1 | B2 |
 
 ## Conclusión
-LA resolución exitosa de este problema requiere de una estrategia con un enfoque cuidadoso que se pueda utilizar para respetar las limitaciones del juego, una de ellas es que cada color tenía que tomar un turno en cada movimiento. Si lo vemos desde ese punto de vista los alfiles blancos tenían que llegar al otro extremo, pero a la vez que los negros necesitaban hacer lo mismo. En lo personal a mí me cuesta trabajo interpretar las estrategias que sigo en mi mente o incluso plasmar la secuencia de pasos que tengo que seguir, más bien la forma en la que llego a la solución de algún problema es, ya sea simulándolo o haciendo los movimientos y necesito apoyarme de alguna bitácora o lista para poder recordar los pasos a seguir, hay personas que tienen mayor facilidad para plasmar su metodología pero en mi caso he notado que me es más sencillo poniéndolo en práctica, quizá desde un enfoque kinestésico. En conclusión, puedo decir que para solucionar un problema de esta naturaleza lo primer es observar detenidamente el tablero del juego y las piezas que hay, cuáles son sus dimensiones, observar cuales son las reglas y las limitaciones para hacer los movimientos, en base a ello pude deducir que si los movimientos eran alternados tenían que tener cierta coordinación y simetría al asociarlo con un numero par, además de que el número de piezas al ser 4 seguía esta lógica, también es importante tomar en cuenta los patrones que se van construyendo ya poniendo en práctica la solución del problema, creo que teniendo en cuenta estas características puede ser una herramienta útil para resolver otro problemas con características similares.
+Para la resolución exitosa de este problema se requiere de una estrategia con un enfoque cuidadosamente definido desde el inicio del problema que se pueda utilizar para respetar las limitaciones impuestas por el juego, una de ellas es que cada color tenía que tomar un turno en cada movimiento no mover dos veces el negro o el blanco. Si lo vemos desde ese punto de vista los alfiles blancos tenian que intercambiar posiciones con los alfiles negros sin entrar en los rangos de ataque de los otros colores. En lo personal me fue algo dificil el interpretar las estrategias que realizo de forma mentar o escribirlos de forma coherente en una libre, considero que la forma en la que llego a la solución de algún problema es, ya sea simulándolo o haciendo los movimientos de forma grafica y necesito apoyarme de algun tipo de bitácora o lista para poder recordar los pasos que se han tomado hasta ese punto, como lo fué en este caso anotar en una hoja de papel y despues pasarlo a digital en formato markdown.
+En conclusión, puedo afirmar que para solucionar un problema de esta indole lo primero que se debe observar detenidamente es el tablero del juego y las piezas que hay en dicho tablero, cuáles son sus dimensiones o tamaño del tablero, observar cuales son las reglas y las limitaciones para hacer los movimientos por parte de los alfiles, y en base a ello se puede deducir que si los movimientos eran alternados tenían que tener cierta coordinación y simetría al asociarlo con un numero par, además de que el número de piezas al ser par y de la misma cantidad en colores pues mantenia cierta lógica, también es importante tomar en cuenta los patrones que se van construyendo conforme se esta realizando el ejercicioya, creo que teniendo en cuenta que estas características puede ser una herramienta útil para resolver otro problemas con características similares en un futuro.
 
 # Practica 4 Introducción a la inteligencia artificial Introspección: Contar islas en una matriz.
 ## Introducción.
